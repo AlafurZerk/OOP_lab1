@@ -7,7 +7,7 @@ name = "my_project"
 version = "0.1.0"
 description = "A Python project with Pair and Time classes"
 authors = [
-    {name = "Your Name", email = "your.email@example.com"},
+    {name = "D", email = "d@test.com"},
 ]
 dependencies = [
     "flask>=2.0.0",
@@ -38,4 +38,5 @@ exclude = '''
 [tool.isort]
 profile = "black"
 multi_line_output = 3
+
 include_trailing_comma = true
